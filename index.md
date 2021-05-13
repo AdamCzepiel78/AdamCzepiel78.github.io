@@ -1,3 +1,11 @@
-## Adam Czepiels Github Page
+# Welcome to my Github Page
 
-# Welcome to my github page
+## Main Programming
+
+* C#
+* .NET Core
+* Nodejs
+* ReactJS
+* Javascript
+* Powershell
+* Bash Shell
