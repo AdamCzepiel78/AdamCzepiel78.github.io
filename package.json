@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.3.0",
+    "express": "latest",
+    "body-parser": "latest"
+  }
+}

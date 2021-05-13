@@ -1,0 +1,30 @@
+textarea{
+  resize: none; 
+}
+@media screen and (min-width: 480px){
+  a img, img{
+    width: 450px;
+    box-shadow: -1px -1px 0px darkgrey, 2px 2px 2px darkgrey;
+  }
+  li img{
+    min-width: 50%;
+    max-width: 50%;
+  }
+}
+.list-webcerts li{
+  display: inline-block;
+}
+@media screen and (max-width: 480px){
+  a img, img, li img{
+    min-width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: -1px -1px 0px darkgrey, 2px 2px 2px darkgrey;
+  }
+  li img{
+    margin: 5px 10px;
+  }
+}
+
+a{
+  color: #eee;
+}
