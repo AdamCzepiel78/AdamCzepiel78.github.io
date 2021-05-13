@@ -1,9 +1,9 @@
-# Welcome to my Github Page
+# Welcome To My Github Page
 
 ## Main Programming Topics:
 
 * C#
-* .NET Core
+* DOTNET Core
 * Nodejs
 * ReactJS
 * Javascript
